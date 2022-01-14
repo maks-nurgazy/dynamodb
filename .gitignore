@@ -1,0 +1,4 @@
+node_modules
+.vscode/settings.json
+src/*/*.d.ts
+src/*/*.js
